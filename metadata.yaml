@@ -1,0 +1,29 @@
+_repo: Sexti-Properti-Elegiarvm--Liber-Primvs_237
+_version: 0.0.1
+alternative_title: 'Sexti Properti Elegiarum: Liber Primus'
+creator:
+  author:
+    agent_name: Propertius, Sextus
+    alias: Propertius, Sextus Aurelius
+    gutenberg_agent_id: '133'
+    url: http://www.gutenberg.org/2009/agents/133
+    wikipedia: http://en.wikipedia.org/wiki/Sextus_Propertius
+description: Cynthia
+gutenberg_issued: '1995-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '237'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- Poetry'
+- !lcsh 'Love poetry, Latin'
+- !lcc 'PA'
+- !lcsh 'Latin poetry'
+- !lcsh 'Man-woman relationships -- Poetry'
+- !lcsh 'Elegiac poetry, Latin'
+- GITenberg
+title: 'Sexti Properti Elegiarvm: Liber Primvs'
+url: http://www.gutenberg.org/ebooks/237
