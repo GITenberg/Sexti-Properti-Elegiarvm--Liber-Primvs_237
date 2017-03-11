@@ -1,6 +1,9 @@
 _repo: Sexti-Properti-Elegiarvm--Liber-Primvs_237
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'Sexti Properti Elegiarum: Liber Primus'
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Propertius, Sextus
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/133
     wikipedia: http://en.wikipedia.org/wiki/Sextus_Propertius
 description: Cynthia
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/237#Sexti-Properti-Elegiarvm--Liber-Primvs
 gutenberg_issued: '1995-03-01'
 gutenberg_type: Text
 identifiers:
